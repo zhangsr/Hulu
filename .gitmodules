@@ -1,0 +1,12 @@
+[submodule "common"]
+	path = common
+	url = ./common/
+[submodule "bean"]
+	path = bean
+	url = ./bean/
+[submodule "model"]
+	path = model
+	url = ./model/
+[submodule "viewmodel"]
+	path = viewmodel
+	url = ./viewmodel/
