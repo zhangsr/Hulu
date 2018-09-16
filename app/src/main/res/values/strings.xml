@@ -1,3 +1,35 @@
 <resources>
-    <string name="app_name">Hulu</string>
+    <string name="title_inbox">订阅</string>
+    <string name="title_discover">发现</string>
+    <string name="title_person">我的</string>
+    <string name="yestoday">昨天</string>
+    <string name="before_yestoday">前天</string>
+    <string name="back_exit_hint">再点返回退出</string>
+    <string name="fav">收藏</string>
+    <string name="favorited">已收藏</string>
+    <string name="unfavorited">取消收藏</string>
+    <string name="link">打开原文链接</string>
+    <string name="share">分享</string>
+    <string name="none"></string>
+    <string name="refresh">刷新</string>
+    <string name="add_subscription">添加RSS订阅</string>
+    <string name="add_subscription_hint">www.zhihu.com/rss</string>
+    <string name="mark_as_read">标记为已读</string>
+    <string name="remove_subscription">取消订阅</string>
+    <string name="search">搜索</string>
+    <string name="mark_all_above_as_read">上面全部标记为已读</string>
+    <string name="mark_as_unread">标记为未读</string>
+    <string name="mark_all_below_as_read">下面全部标记为已读</string>
+
+    <string name="font">字体</string>
+    <string name="settings">设置</string>
+    <string name="reading_font_size">阅读字体大小</string>
+    <string name="small">小</string>
+    <string name="big">大</string>
+    <string name="medium">中</string>
+    <string-array name="font_size">
+        <item>@string/small</item>
+        <item>@string/medium</item>
+        <item>@string/big</item>
+    </string-array>
 </resources>

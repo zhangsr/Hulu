@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_refresh"
+        android:icon="@drawable/round_autorenew_black_24"
+        android:orderInCategory="100"
+        android:title="@string/refresh"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_add"
+        android:icon="@drawable/round_add_black_24"
+        android:orderInCategory="100"
+        android:title="@string/add_subscription"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/round_search_black_24"
+        android:orderInCategory="100"
+        android:visible="false"
+        android:title="@string/abc_search_hint"
+        app:showAsAction="always" />
+</menu>
